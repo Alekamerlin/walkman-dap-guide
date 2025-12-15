@@ -8,8 +8,8 @@ A user friendly guide to using Walkman DAP players.
 
 Resources:
 - [Offical user manual from SONY](https://helpguide.sony.net/dmp/nwa50/v1/en/index.html)
-- [About Walkman A series on Wikipedia](https://www.rockbox.org/wiki/SonyNWDestTool)
-- [Destination and sounds pressure tool](https://en.wikipedia.org/wiki/Walkman_A_Series)
+- [About Walkman A series on Wikipedia](https://en.wikipedia.org/wiki/Walkman_A_Series)
+- [Destination and sounds pressure tool](https://www.rockbox.org/wiki/SonyNWDestTool)
 - [About a bug with the destination and sounds pressure tool](https://forums.rockbox.org/index.php?topic=54610.0)
 
 #### How to get info about the Walkman
