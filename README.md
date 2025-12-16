@@ -38,4 +38,4 @@ $ /path_to_the_tool/scsitool_64-nwz-v27 /dev/sdb -c dest_tool set U off
 ```
 Where `U` is the destination code for the US region, and `off` disables sounds pressure.
 
-After changing the destination code, disconnect the Walkmand, and reset it to factory settings to apply the changes.
+After changing the destination code, disconnect the Walkman, and reset it to factory settings to apply the changes.
