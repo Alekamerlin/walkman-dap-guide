@@ -27,3 +27,15 @@ $ /path_to_the_tool/scsitool_64-nwz-v27 /dev/sdb -c dest_tool get
 > Use the `-c` key to disable color output as there is a bug.
 
 If the output is something like "Cannot open device", try disconnecting and reconnecting the device.
+
+#### Change the region and sounds pressure of the Walkman
+
+Find a suitable region (destination code) in the table at the bottom of [the page](https://www.rockbox.org/wiki/SonyNWDestTool).
+
+Set the destination code and disable the sounds pressure, using the command:
+```
+$ /path_to_the_tool/scsitool_64-nwz-v27 /dev/sdb -c dest_tool set U off
+```
+Where `U` is the destination code for the US region, and `off` disables sounds pressure.
+
+After changing the destination code, disconnect the Walkmand, and reset it to factory settings to apply the changes.
