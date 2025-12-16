@@ -12,6 +12,12 @@ Resources:
 - [Destination and sounds pressure tool](https://www.rockbox.org/wiki/SonyNWDestTool)
 - [About a bug with the destination and sounds pressure tool](https://forums.rockbox.org/index.php?topic=54610.0)
 
+#### About the device
+
+The **NW-A50** is a series of the digital audio players from SONY that [sound pretty well](https://www.youtube.com/watch?v=Rwal4qYWgK8). The difference between the models in the line is in the storage capacity and regional settings, such as the interface language and FM radio band. Some features, such as ATRAC support, may or may not be available in the device.
+
+The Walkman's storage can be expanded [up to 1TB](https://www.sony.ca/en/electronics/support/digital-music-players-nw-nwz-a-series/nw-a55/articles/00200481) with an SD Card, so even for DSD files, the player is a capacious device.
+
 #### How to get info about the Walkman
 
 Get the tool [here](https://www.rockbox.org/realwiki/pub/Main/SonyNWDestTool/scsitool_64-nwz-v27) and unpack it. The file should be `scsitool_64-nwz-v27`, where `_64` is the platform name while `-v27` is the tool version.
