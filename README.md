@@ -18,6 +18,12 @@ The **NW-A50** is a series of the digital audio players from SONY that [sound pr
 
 The Walkman's storage can be expanded [up to 1TB](https://www.sony.ca/en/electronics/support/digital-music-players-nw-nwz-a-series/nw-a55/articles/00200481) with an SD Card, so even for DSD files, the player is a capacious device.
 
+#### About the Walkman's firmware
+
+It seems that all the players in the line have the same firmware with different settings for each region. The region settings are determined by the destination code. There's an unofficial tool that can change the destination code, so it's possible to reprogram a Walkman from one region to another.
+
+The firmware is not based on Android, so there's no online streaming and other Android features, but the player can work as a DAC for a PC or a Bluetooth reciever.
+
 #### How to get info about the Walkman
 
 Get the tool [here](https://www.rockbox.org/realwiki/pub/Main/SonyNWDestTool/scsitool_64-nwz-v27) and unpack it. The file should be `scsitool_64-nwz-v27`, where `_64` is the platform name while `-v27` is the tool version.
