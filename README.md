@@ -1,6 +1,6 @@
 # Walkman DAP Guide
 
-A user friendly guide to using Walkman DAP players.
+A user-friendly guide to using Walkman DAP players.
 
 ### NW-A50 (NW-A55/NW-A56/NW-A57)
 
