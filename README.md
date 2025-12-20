@@ -4,7 +4,7 @@ A user friendly guide to using Walkman DAP players.
 
 ### NW-A50 (NW-A55/NW-A56/NW-A57)
 
-#### Knowledge base:
+#### Knowledge base
 
 Resources:
 - [Offical user manual from SONY](https://helpguide.sony.net/dmp/nwa50/v1/en/index.html)
