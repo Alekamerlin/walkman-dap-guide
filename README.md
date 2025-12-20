@@ -24,6 +24,12 @@ It seems that all the players in the line have the same firmware with different 
 
 The firmware is not based on Android, so there's no online streaming and other Android features, but the player can work as a DAC for a PC or a Bluetooth reciever.
 
+#### The Walkman's features
+
+The main feature of the **NW-A50** is [the playback of music files](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002342858.html) from the built-in storage or SD Card. In addition to music files, the player [can play language learning files](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002342877.html) (regular audio files from the learning direcory) and [listen to FM radio](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002342923.html). The player can also [work as a DAC](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002347800.html) (digital audio convertor) for a PC via a USB connection or as [a Bluetooth reciever](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002348531.html).
+
+There are also many features to adjust the sound quality, such as [equalizer](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002342874.html), [noise cancellation](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002342875.html), [ambient sound](https://helpguide.sony.net/dmp/nwa50/v1/en/contents/TP0002348599.html), etc.
+
 #### How to get info about the Walkman
 
 Get the tool [here](https://www.rockbox.org/realwiki/pub/Main/SonyNWDestTool/scsitool_64-nwz-v27) and unpack it. The file should be `scsitool_64-nwz-v27`, where `_64` is the platform name while `-v27` is the tool version.
